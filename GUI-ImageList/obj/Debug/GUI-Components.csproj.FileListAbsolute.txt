@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\bin\Debug\GUI-ImageList.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\bin\Debug\GUI-ImageList.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\bin\Debug\GUI-ImageList.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI_ImageList.frmImageList.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI_ImageList.FrmTimer.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI_ImageList.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI-Components.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI-Components.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI-ImageList.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI-ImageList.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI-Components.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI_ImageList.frmLuckySeven.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ImageList\obj\Debug\GUI_ImageList.frmBackgourndWorker.resources

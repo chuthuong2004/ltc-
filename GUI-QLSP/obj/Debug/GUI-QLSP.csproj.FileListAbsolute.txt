@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\bin\Debug\GUI-QLSP.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\bin\Debug\GUI-QLSP.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\bin\Debug\GUI-QLSP.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI-QLSP.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI_QLSP.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI-QLSP.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI-QLSP.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI-QLSP.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI-QLSP.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI_QLSP.frmDanhMuc.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSP\obj\Debug\GUI_QLSP.frmSanPham.resources

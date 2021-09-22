@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\bin\Debug\GUI-ToolBar.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\bin\Debug\GUI-ToolBar.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\bin\Debug\GUI-ToolBar.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\obj\Debug\GUI_ToolBar.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\obj\Debug\GUI_ToolBar.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\obj\Debug\GUI-ToolBar.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\obj\Debug\GUI-ToolBar.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\obj\Debug\GUI-ToolBar.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-ToolBar\obj\Debug\GUI-ToolBar.pdb

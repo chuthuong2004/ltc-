@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\bin\Debug\GUI-Dialogs.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\bin\Debug\GUI-Dialogs.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\bin\Debug\GUI-Dialogs.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI_Dialogs.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI_Dialogs.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI-Dialogs.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI-Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI-Dialogs.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI-Dialogs.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-Dialogs\obj\Debug\GUI-Dialogs.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\bin\Debug\GUI-QLThanhToanTienSach.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\bin\Debug\GUI-QLThanhToanTienSach.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\bin\Debug\GUI-QLThanhToanTienSach.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI-QLThanhToanTienSach.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI_QLThanhToanTienSach.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI_QLThanhToanTienSach.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI-QLThanhToanTienSach.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI-QLThanhToanTienSach.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI-QLThanhToanTienSach.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLThanhToanTienSach\obj\Debug\GUI-QLThanhToanTienSach.pdb

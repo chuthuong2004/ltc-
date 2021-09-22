@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\bin\Debug\GUI-WorkingWithArr.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\bin\Debug\GUI-WorkingWithArr.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\bin\Debug\GUI-WorkingWithArr.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI-WorkingWithArr.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI_WorkingWithArr.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI_WorkingWithArr.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI-WorkingWithArr.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI-WorkingWithArr.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI-WorkingWithArr.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-WorkingWithArr\obj\Debug\GUI-WorkingWithArr.pdb

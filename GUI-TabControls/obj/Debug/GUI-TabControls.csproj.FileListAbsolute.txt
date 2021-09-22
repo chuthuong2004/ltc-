@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\bin\Debug\GUI-TabControls.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\bin\Debug\GUI-TabControls.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\bin\Debug\GUI-TabControls.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI-TabControls.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI_TabControls.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI_TabControls.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI-TabControls.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI-TabControls.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI-TabControls.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-TabControls\obj\Debug\GUI-TabControls.pdb

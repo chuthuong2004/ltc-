@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\bin\Debug\GUI-MDIform.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\bin\Debug\GUI-MDIform.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\bin\Debug\GUI-MDIform.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI_MDIform.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI_MDIform.frmBai1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI_MDIform.frmbai2.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI_MDIform.frmBai3.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI_MDIform.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI-MDIform.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI-MDIform.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI-MDIform.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MDIform\obj\Debug\GUI-MDIform.pdb

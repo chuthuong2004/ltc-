@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\bin\Debug\GUI-HoaDonMuaXe.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\bin\Debug\GUI-HoaDonMuaXe.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\bin\Debug\GUI-HoaDonMuaXe.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI_HoaDonMuaXe.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI_HoaDonMuaXe.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI-HoaDonMuaXe.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI-HoaDonMuaXe.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI-HoaDonMuaXe.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI-HoaDonMuaXe.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-HoaDonMuaXe\obj\Debug\GUI-HoaDonMuaXe.csproj.AssemblyReference.cache

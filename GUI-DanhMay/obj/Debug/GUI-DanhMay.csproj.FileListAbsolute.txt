@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\bin\Debug\GUI-DanhMay.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\bin\Debug\GUI-DanhMay.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\bin\Debug\GUI-DanhMay.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI-DanhMay.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI_DanhMay.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI_DanhMay.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI-DanhMay.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI-DanhMay.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI-DanhMay.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DanhMay\obj\Debug\GUI-DanhMay.pdb

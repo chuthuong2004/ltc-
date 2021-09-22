@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\bin\Debug\GUI_ListView.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\bin\Debug\GUI_ListView.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\bin\Debug\GUI_ListView.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI-ListView.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI_ListView.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI_ListView.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI-ListView.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI-ListView.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI_ListView.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI_ListView.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI_ListView\obj\Debug\GUI_ListView.Form2.resources

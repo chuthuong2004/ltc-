@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\bin\Debug\GUI-MenuFile.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\bin\Debug\GUI-MenuFile.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\bin\Debug\GUI-MenuFile.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI-MenuFile.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI_MenuFile.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI_MenuFile.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI-MenuFile.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI-MenuFile.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI-MenuFile.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI-MenuFile.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-MenuFile\obj\Debug\GUI_MenuFile.frmNewProject.resources

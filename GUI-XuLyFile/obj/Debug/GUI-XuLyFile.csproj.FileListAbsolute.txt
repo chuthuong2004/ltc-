@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\bin\Debug\GUI-XuLyFile.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\bin\Debug\GUI-XuLyFile.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\bin\Debug\GUI-XuLyFile.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI-XuLyFile.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI_XuLyFile.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI_XuLyFile.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI-XuLyFile.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI-XuLyFile.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI-XuLyFile.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-XuLyFile\obj\Debug\GUI-XuLyFile.pdb

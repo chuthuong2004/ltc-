@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\bin\Debug\frmRunTime.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\bin\Debug\frmRunTime.exe
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\bin\Debug\frmRunTime.pdb
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.exe
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.pdb
+C:\Users\PC\source\repos\GUI-CSharp\frmRunTime\obj\Debug\frmRunTime.Form2.resources

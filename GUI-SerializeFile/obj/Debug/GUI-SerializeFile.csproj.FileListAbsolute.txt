@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\bin\Debug\GUI-SerializeFile.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\bin\Debug\GUI-SerializeFile.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\bin\Debug\GUI-SerializeFile.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\obj\Debug\GUI_SerializeFile.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\obj\Debug\GUI_SerializeFile.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\obj\Debug\GUI-SerializeFile.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\obj\Debug\GUI-SerializeFile.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\obj\Debug\GUI-SerializeFile.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-SerializeFile\obj\Debug\GUI-SerializeFile.pdb

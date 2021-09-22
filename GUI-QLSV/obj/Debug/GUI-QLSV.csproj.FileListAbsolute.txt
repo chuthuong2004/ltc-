@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\bin\Debug\GUI-QLSV.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\bin\Debug\GUI-QLSV.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\bin\Debug\GUI-QLSV.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI-QLSV.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI_QLSV.frmMain.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI_QLSV.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI-QLSV.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI-QLSV.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI-QLSV.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-QLSV\obj\Debug\GUI-QLSV.pdb

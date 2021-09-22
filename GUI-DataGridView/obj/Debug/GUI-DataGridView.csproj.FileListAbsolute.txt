@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\bin\Debug\GUI-DataGridView.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\bin\Debug\GUI-DataGridView.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\bin\Debug\GUI-DataGridView.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI_DataGridView.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI_DataGridView.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI-DataGridView.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI-DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI-DataGridView.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI-DataGridView.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DataGridView\obj\Debug\GUI-DataGridView.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\bin\Debug\GUI-RichTextBox.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\bin\Debug\GUI-RichTextBox.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\bin\Debug\GUI-RichTextBox.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI-RichTextBox.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI_RichTextBox.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI_RichTextBox.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI-RichTextBox.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI-RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI-RichTextBox.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-RichTextBox\obj\Debug\GUI-RichTextBox.pdb

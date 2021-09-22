@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\bin\Debug\GUI-DatVeXemPhim.exe.config
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\bin\Debug\GUI-DatVeXemPhim.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\bin\Debug\GUI-DatVeXemPhim.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI-DatVeXemPhim.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI_DatVeXemPhim.Form1.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI_DatVeXemPhim.Properties.Resources.resources
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI-DatVeXemPhim.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI-DatVeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI-DatVeXemPhim.exe
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI-DatVeXemPhim.pdb
+C:\Users\PC\source\repos\GUI-CSharp\GUI-DatVeXemPhim\obj\Debug\GUI_DatVeXemPhim.frmThongTinNguoiDatVe.resources
